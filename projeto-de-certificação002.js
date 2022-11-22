@@ -43,7 +43,7 @@ class Atleta {
     obtemPesoAtleta() { // que retorna o peso do atleta
       return this.peso
     }
-    obterAltura() { // que retorna o peso do atleta
+    obterAltura() { // que retorna a altura do atleta
       return this.altura
     }
     obtemNotasAtleta() { // que retorna as notas do atleta
